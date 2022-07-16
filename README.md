@@ -1,3 +1,4 @@
+<img align="center" width="1600" src="https://github.com/AhmedKazim-Dev/AhmedKazim-Dev/blob/main/banner.gif">
 <h1 align="center">Hi 👋, I'm Ahmed Kazim Raza</h1>
 <h3 align="center">A Passionate Software Developer and Tinkerer from Pakistan</h3>
 <br>
