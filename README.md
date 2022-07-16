@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Kazim Raza</h1>
 <h3 align="center">A Passionate Software Developer and Tinkerer from Pakistan</h3>
+<img align="right" width="480" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
 - 🔭 I’m currently working on [Building Custom ROMS For Miatoll Devices](https://t.me/Diamond_Roms)
 
